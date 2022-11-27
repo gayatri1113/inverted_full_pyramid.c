@@ -1,0 +1,1 @@
+# inverted_full_pyramid.c
